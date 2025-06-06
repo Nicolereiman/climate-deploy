@@ -9,8 +9,14 @@ This project explores time series forecasting of climate data using a combinatio
 | `ModeloFinal.ipynb`                  | Final pipeline and model used to generate the predictions.               |
 | `Presentación.pdf`                   | Visual summary of key findings and conclusions.                          |
 
+🔁 This project is an adapted version of a previous analysis on the same dataset. While that version focused on Spark-based tools and large-scale data processing, this one centers on time series forecasting techniques and model deployment through a Streamlit app.
+
 ## 🌐 Streamlit App
 The final model was deployed using Streamlit, resulting in an interactive web interface.
+
+Check out the deployed version of the model on Streamlit:
+🔗 predictivo-avanzado-grupo8-2c-023.streamlit.app
+
 Users can select a country from the dataset and specify how many months ahead they want to predict. The app returns the corresponding forecasted temperature values.
 
 This project was developed as part of an academic course and reflects both technical modeling and thoughtful UX design for communication.

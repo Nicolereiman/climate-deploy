@@ -14,8 +14,8 @@ This project explores time series forecasting of climate data using a combinatio
 ## 🌐 Streamlit App
 The final model was deployed using Streamlit, resulting in an interactive web interface.
 
-Check out the deployed version of the model on Streamlit:
-🔗 predictivo-avanzado-grupo8-2c-023.streamlit.app
+Check out the deployed version of the model on Streamlit:  
+🔗 [predictivo-avanzado-grupo8-2c-023.streamlit.app](https://predictivo-avanzado-grupo8-2c-023.streamlit.app/)
 
 Users can select a country from the dataset and specify how many months ahead they want to predict. The app returns the corresponding forecasted temperature values.
 
